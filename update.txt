@@ -1,1 +1,1 @@
-1.0.2 | OPTIONAL | Massive update! Added Studio Lock, Smart Auto-Optimize, and Deep Vault Recovery! | https://google.com
+2.0.0 | OPTIONAL | Welcome to Version 2.0! We have completely overhauled the engine, added Smart Auto-Optimization, App Lock Security, and Next-Gen MSMF Hardware Encoding! | https://1drv.ms/u/c/69dfe28e1e7f19e1/IQC-Rxv2GKHMTLexpWMA09QMATFJAh6p59mSigEdkjkTQHc?e=8YYE7E
