@@ -1,0 +1,1 @@
+1.0.2 | OPTIONAL | Massive update! Added Studio Lock, Smart Auto-Optimize, and Deep Vault Recovery! | https://google.com
