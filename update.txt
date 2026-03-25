@@ -1,1 +1,1 @@
-2.0.0 | OPTIONAL | Welcome to Version 2.0! We have completely overhauled the engine, added Smart Auto-Optimization, App Lock Security, and Next-Gen MSMF Hardware Encoding! | https://1drv.ms/u/c/69dfe28e1e7f19e1/IQC-Rxv2GKHMTLexpWMA09QMATFJAh6p59mSigEdkjkTQHc?e=8YYE7E
+2.0.0 | OPTIONAL | Welcome to Version 2.0! Added Hardware Scanner, App Lock, and Next-Gen Encoding! | https://1drv.ms/u/c/69dfe28e1e7f19e1/IQA3uY04snijQIatFr3nfFgdAbnbIYSu4NqX1sUY9_OJxro?e=1hk30j
